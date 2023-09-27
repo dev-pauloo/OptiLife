@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "62425697529",
+    "project_id": "optilife-3492d",
+    "storage_bucket": "optilife-3492d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62425697529:android:b77d9ed2b92a1fa3d8a628",
+        "android_client_info": {
+          "package_name": "com.example.optilife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62425697529-0heqhblui30eoubm06d4n4rsrqhdfi3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.optilife",
+            "certificate_hash": "330d0ca65498f6c3df8f3b692cb3a7740e319626"
+          }
+        },
+        {
+          "client_id": "62425697529-hhfkhqactnecbn43d8med4d5p9chp3j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKI6EPAVHWq0R9xhD_cV9oLYp5cO_-ge4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62425697529-hhfkhqactnecbn43d8med4d5p9chp3j4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62425697529-8vgn98u3a60rp2pbhglto66dtisincm4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.optilife.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
